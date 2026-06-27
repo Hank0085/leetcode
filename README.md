@@ -1,2 +1,2 @@
-# leetcode
-___leetcode___刷题记录
+# Nothing to write
+
